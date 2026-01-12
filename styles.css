@@ -1,12 +1,12 @@
 :root {
   color-scheme: light;
-  --cream: #f4fbf7;
-  --sand: #dff0e6;
-  --taupe: #b9d3c4;
-  --clay: #6f9c7e;
-  --forest: #1f4d34;
-  --ink: #0f1f15;
-  --soft: #ffffff;
+  --cream: #f8f4ef;
+  --sand: #e7dccb;
+  --taupe: #c9b7a3;
+  --clay: #a27c5d;
+  --forest: #2c3b2f;
+  --ink: #1b1b1b;
+  --soft: #fffdfa;
   --shadow: 0 18px 45px rgba(0, 0, 0, 0.08);
   --radius: 22px;
   font-family: "Helvetica Neue", "Avenir", sans-serif;
@@ -358,7 +358,7 @@ main {
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   gap: 2rem;
   padding: 3rem 6vw 4rem;
-  background: #e5f3ea;
+  background: #f0e7dc;
 }
 
 .footer__links {
