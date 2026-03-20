@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1536" viewBox="0 0 1024 1536" role="img" aria-label="Body Balm ingredients poster">
+  <rect width="1024" height="1536" fill="#efe6db"/>
+  <text x="560" y="180" fill="#6b5a4c" font-size="76" font-family="Georgia, serif">Ingredients</text>
+  <g fill="#7a6a5a" font-size="48" font-family="Georgia, serif">
+    <text x="560" y="270">— Grass-Fed Beef Tallow</text>
+    <text x="560" y="345">— Organic Coconut Oil</text>
+    <text x="560" y="420">— Organic Jojoba Oil</text>
+    <text x="560" y="495">— Organic Sweet Almond Oil</text>
+    <text x="560" y="570">— Organic Beeswax</text>
+    <text x="560" y="645">— Organic Rosemary Extract</text>
+    <text x="560" y="720">— Organic Sweet Orange EO</text>
+    <text x="560" y="795">— Frankincense Oil</text>
+    <text x="560" y="870">— Vitamin E (Tocopherol)</text>
+  </g>
+  <rect x="90" y="360" width="360" height="420" rx="45" fill="#24252a"/>
+  <text x="270" y="555" text-anchor="middle" fill="#f1ece2" font-size="34" font-family="Avenir, Helvetica, Arial, sans-serif">NAKD ORIGIN</text>
+  <text x="270" y="630" text-anchor="middle" fill="#f5f2ea" font-size="62" font-family="Avenir, Helvetica, Arial, sans-serif">BODY BALM</text>
+</svg>
