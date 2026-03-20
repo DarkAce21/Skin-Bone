@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1536" height="1024" viewBox="0 0 1536 1024" role="img" aria-label="NAKD ORIGIN marble brand card">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f2e7db"/>
+      <stop offset="100%" stop-color="#e8d8c8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1536" height="1024" fill="url(#bg)"/>
+  <path d="M0 660C280 620 410 760 680 736C970 710 1170 600 1536 650" stroke="#e1d0bf" stroke-width="26" fill="none" opacity="0.55"/>
+  <path d="M0 390C240 330 420 460 710 430C930 410 1150 320 1536 360" stroke="#efdfd0" stroke-width="20" fill="none" opacity="0.7"/>
+  <text x="768" y="530" text-anchor="middle" font-size="84" letter-spacing="12" fill="#4d4d4d" font-family="Avenir, Helvetica, Arial, sans-serif">NAKD ORIGIN</text>
+</svg>
