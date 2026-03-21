@@ -436,17 +436,10 @@ main {
 }
 
 .product-card__image {
-  display: block;
   width: 100%;
   border-radius: 16px;
   border: 1px solid var(--color-border);
   background: #cbc4b8;
-  overflow: hidden;
-}
-
-.product-card__image img {
-  width: 100%;
-  height: auto;
 }
 @media (max-width: 900px) {
   .site-header {
